@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paskutinio turo rezultatas"
+  short_description: "Paskutinio užbaigto Eurolygos turo rezultatai iš BasketNews"
+  default_prompt: "Panaudok paskutinio-turo-rezultatas įgūdį ir pateik paskutinio užbaigto Eurolygos turo visų rungtynių rezultatus iš BasketNews."
