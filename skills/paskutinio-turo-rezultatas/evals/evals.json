@@ -1,0 +1,23 @@
+{
+  "skill_name": "paskutinio-turo-rezultatas",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Pateik paskutinio Eurolygos turo rezultatus iš BasketNews.",
+      "expected_output": "Patikrinti paskutinio visiškai pasibaigusio turo rezultatai, datos ir BasketNews nuorodos.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Koks buvo paskutinio užbaigto Eurolygos turo rezultatas? Įtrauk visas rungtynes.",
+      "expected_output": "Visos patvirtintos vieno turo poros ir jų rezultatai.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Šiandien dar vyksta Eurolygos turas. Parodyk paskutinio turo rezultatus.",
+      "expected_output": "Pasirinktas ankstesnis užbaigtas turas su paaiškinimu.",
+      "files": []
+    }
+  ]
+}
