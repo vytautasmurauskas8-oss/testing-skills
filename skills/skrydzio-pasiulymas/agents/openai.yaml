@@ -1,4 +1,4 @@
 interface:
   display_name: "Skrydžio pasiūlymas"
-  short_description: "Pigiausi tiesioginiai savaitgalio skrydžiai iš Vilniaus"
-  default_prompt: "Panaudok skrydzio-pasiulymas ir surask pigiausius tiesioginius savaitgalio skrydžius į abi puses iš Vilniaus per artimiausias 8 savaites. Nurodyk patikrintas kainas, datas, abiejų krypčių laikus ir Skyscanner nuorodas."
+  short_description: "Tiesioginės savaitgalio išvykos iš Vilniaus be kainų"
+  default_prompt: "Panaudok skrydzio-pasiulymas ir rask 5–10 tiesioginių savaitgalio išvykų iš Vilniaus per artimiausias 8 savaites. Pateik patvirtintas datas, abiejų krypčių skrydžių laikus ir šaltinių nuorodas. Kainų nereikia."
