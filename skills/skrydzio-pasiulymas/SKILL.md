@@ -1,42 +1,42 @@
 ---
 name: skrydzio-pasiulymas
-description: Suranda pigiausius tiesioginius savaitgalio skrydžius į abi puses iš Vilniaus (VNO) pagal Skyscanner, pateikia patikrintas kelionės datas, abiejų skrydžių išvykimo ir atvykimo laikus, galutinę kainą eurais bei pasiūlymo nuorodą. Naudok, kai vartotojas prašo pigių savaitgalio išvykų, tiesioginių skrydžių iš Vilniaus, savaitgalio kelionės pasiūlymų arba mini „skrydzio-pasiulymas“.
+description: Suranda tiesioginių savaitgalio išvykų iš Vilniaus (VNO) kryptis ir patikrina galimas išvykimo bei grįžimo datas ir skrydžių laikus be privalomos kainų paieškos. Naudok, kai prašoma savaitgalio kelionių, tiesioginių skrydžių iš Vilniaus, Skyscanner krypčių ar sakoma „skrydzio-pasiulymas“.
 ---
 
-# Skrydžio pasiūlymas
+# Savaitgalio skrydžių iš Vilniaus pasiūlymai
 
-## Paskirtis ir numatytieji parametrai
-Ieškok **realiai patikrinamų** savaitgalio išvykų pirmiausia [Skyscanner](https://www.skyscanner.com/). Jei vartotojas nenurodo kitaip:
-- Pradinis oro uostas: tik **Vilnius (VNO)**. Neįtrauk Kauno ar Rygos.
-- Kryptis: **Anywhere / Everywhere**; grįžti į VNO.
-- Keliautojai: 1 suaugęs, ekonominė klasė; kaina **EUR**, už **abu skrydžius vienam keleiviui**.
-- Laikotarpis: artimiausios **8 būsimos savaitės**, tik ateities datos; išbandyk kelis savaitgalius, ne vien pirmą.
-- Kelionės langas: išvykimas **penktadienį po 15:00** arba **šeštadienį**, grįžimas **sekmadienį**; galimas grįžimas pirmadienį iki 09:00, jei naudotojas leidžia ilgesnį savaitgalį. Pirmenybė penktadienis–sekmadienis, šeštadienis–sekmadienis.
-- Bent 5 pigiausi skirtingų krypčių pasiūlymai, jei yra patikrintų. Rikiuok pagal bendrą skrydžių kainą.
-- Abi kelionės atkarpos **be persėdimų**, be savarankiško persėdimo ir be skirtingų išvykimo/grįžimo oro uostų, nebent vartotojas aiškiai leido.
+## Numatytoji užduotis
+Ieškok 5–10 **patikrintų tiesioginių** savaitgalio skrydžių krypčių iš Vilniaus (VNO) į abi puses per artimiausias 8 savaites. Kainų pagal nutylėjimą **nereikia** ir skrydžių pagal kainą nerikiuok.
 
-## Veiksmai
-1. Patikrink šiandienos datą. Naudok prieinamą naršyklę, interneto paiešką ar įgaliotą skrydžių paieškos įrankį **dabartiniams** duomenims. Jokiu būdu nekopijuok pasenusių „nuo €“ kainų kaip realaus savaitgalio pasiūlymo.
-2. Nueik į https://www.skyscanner.com/ ir pasirink Flights, **From: Vilnius (VNO)**, **To: Everywhere/Anywhere**, **Return**, 1 adult, Economy, EUR, **Direct flights only**. Skyscanner „Everywhere“ pateikia galimas kryptis nuo pigiausių, tačiau agreguota kaina dar nebūtinai atitinka konkretų savaitgalį.
-3. Atlik paieškas skirtingoms konkrečioms penktadienio/šeštadienio–sekmadienio datų poroms artimiausioms 8 savaitėms. Iš anksto nurodytų datų ir pageidavimų nekeisk.
-4. Kiekvieną kandidatą atidaryk **konkretaus abipusio maršruto pasiūlyme** ir patvirtink: (a) abi atkarpos tiesioginės, (b) išvykimo ir grįžimo kalendorines datas, (c) visus keturis vietinius laikus (išvykimas / atvykimas abiem kryptimis), (d) bendrą kainą EUR vienam suaugusiajam, (e) kainos komplektaciją (bagažas ir papildomi mokesčiai, jei aiškiai matomi), (f) veikiančią tikrinto pasiūlymo ar jo paieškos nuorodą.
-5. Rikiuok **pagal patikrintą bendrą skrydžio pirmyn ir atgal kainą**. Jei palyginamos skirtingos datos, rodyk pigiausią kiekvienos krypties variantą; jei išvykimo/laiko langas riboja pigumą, nenutylėk ribojimo. Bent jau atskirk patikrintą kainą nuo orientacinės. Jei kelionė lieka per trumpa (pvz., <24 val.), aiškiai pažymėk.
-6. Skyscanner gali rodyti dinamiškus duomenis tik interaktyvioje svetainėje. Jei matomos tik indeksuotos kainos arba svetainė blokuoja prieigą, nurodyk, kad negali patvirtinti tikslios kainos / laikų; pateik **tik patikrintus** duomenis, likusius pažymėk „nepatvirtinta“. Nesugalvok skrydžio laikų, kainų, oro linijų, nuolaidų ar nuorodų. Kitas šaltinis gali tik padėti patvirtinti tvarkaraštį – aiškiai nurodyk, jei kaina ne iš Skyscanner.
-7. Nevykdyk pirkimo, neprisijunk ir neapeik captcha, mokamų prieigų ar svetainės apribojimų.
+- Išvykimas: VNO, penktadienį po 15:00 arba šeštadienį.
+- Grįžimas: sekmadienį į VNO. Jei vartotojas aiškiai leidžia, svarstyk pirmadienį iki 09:00.
+- Tik tiesioginiai skrydžiai **abiem kryptimis**, be persėdimų.
+- Galimi bet kurie miestai / oro uostai; jei prašoma konkrečių krypčių, jų laikykis.
+- Pirmenybė penktadienio–sekmadienio kelionėms su kuo daugiau laiko paskirties vietoje.
+- Nesiūlyk neegzistuojančio konkrečios datos reiso remdamasis vien sezoninių krypčių sąrašu.
 
-## Atsakymo formatas
-**Pigiausios tiesioginės savaitgalio išvykos iš Vilniaus**
-*Patikrinta: YYYY-MM-DD HH:MM (Vilniaus laiku); 1 suaugęs, ekonominė, kelionė į abi puses.*
+## Tyrimo eiga
+1. Nustatyk dabartinę datą ir artimiausių 8 savaičių savaitgalius. Naudok realaus laiko interneto paiešką, naršyklę ar patikimus skrydžių tvarkaraščius. Nesiremk atmintimi.
+2. Pradėk nuo https://www.skyscanner.com/ (From: Vilnius VNO, To: Everywhere, Direct only), bet **nelauk kainų ir neblokuok rezultato vien dėl Skyscanner dinamiško turinio**.
+3. Patikrink galimas kryptis Vilniaus oro uosto / Lietuvos oro uostų oficialiuose tvarkaraščiuose ir aviakompanijų puslapiuose. Bendras maršrutų sąrašas tik padeda atrinkti kandidatus: konkrečiai savaitei būtina patikrinti, kad reisas vykdomas ir pirmyn, ir atgal.
+4. Kiekvienai krypčiai nustatyk išvykimo ir grįžimo datą, vietinius abiejų krypčių išvykimo ir atvykimo laikus, aviakompaniją ir šaltinio nuorodą, **jei tai patvirtinta konkrečioms datoms**. Jei patvirtinta tik kryptis ar savaitės dienos, nepateik tikslaus laiko ar reiso kaip garantuoto.
+5. Atrink iki 10 tinkamų krypčių; pateik bent 5, jei tiek patvirtinta. Rikiuok pagal praktiškumą: penktadienio išvykimas po darbo, sekmadienio grįžimas, daugiau laiko vietoje. Aiškiai nurodyk, kiek laiko galima praleisti kelionės vietoje, jei laikai patikimi. Tikslūs laikai visada vietos laiku, pažymėk skirtingas laiko juostas.
+6. Kiekvienai krypčiai pridėk **realią** šaltinio nuorodą ir https://www.skyscanner.com/ kaip nuorodą kainai savarankiškai pasitikrinti. Konkrečios paieškos ar bilieto nuorodos nekurk iš spėjimų.
+7. Jei dabartinės datos konkretūs reisai nepasiekiami, pateik atskirai **galimas, bet dar nepatvirtintas** kryptis, nenurodyk išgalvotų skrydžių laikų. Aiškiai atskirk tvarkaraštį nuo rezervavimo / laisvų vietų patvirtinimo. Nedaryk pirkimo ir neapeik prieigos apribojimų.
 
-| Kryptis | Datos | Pirmyn (vietos laiku) | Atgal (vietos laiku) | Kaina į abi puses | Nuoroda |
-|---|---|---|---|---|---|
-| Miestas (oro uosto kodas) | YYYY-MM-DD – YYYY-MM-DD | VNO HH:MM → XXX HH:MM | XXX HH:MM → VNO HH:MM | XX € | [Skyscanner pasiūlymas](TIKRA_PATIKRINTA_NUORODA) |
+## Atsakymas lietuviškai
+**Tiesioginės savaitgalio išvykos iš Vilniaus**
+*Tikrinimo data: YYYY-MM-DD. Laikotarpis: [datos]. Kainos neįtrauktos.*
 
-Po lentele trumpai nurodyk, ar įskaičiuotas bagažas, bet kokias kainų ar laikų patikros ribas ir **kad kaina gali keistis**. Jei nepatvirtinai konkrečios pasiūlymo nuorodos, nedėk sugalvoto URL; gali pateikti tik pagrindinę https://www.skyscanner.com/ paiešką, ją taip pažymėdamas. Jei nėra nė vieno patvirtinto pasiūlymo, aiškiai tai pasakyk ir pasiūlyk vartotojui patikrinti Skyscanner „Everywhere“ su nurodytais filtrais, be fiktyvios lentelės.
+| Kryptis | Išvykimo / grįžimo datos | Pirmyn (vietos laiku) | Atgal (vietos laiku) | Patvirtinimas ir šaltinis |
+|---|---|---|---|---|
+| Miestas (oro uostas) | YYYY-MM-DD – YYYY-MM-DD | VNO HH:MM → XXX HH:MM | XXX HH:MM → VNO HH:MM | [Tvarkaraštis](tikras_url) |
 
-## Paskutinė patikra
-- Išvykimas ir grįžimas VNO, tiesioginiai skrydžiai abiem kryptimis.
-- Visos datos ateityje ir atitinka savaitgalio taisyklę.
-- Kaina yra bendra į abi puses (ne „nuo“ už vieną kryptį), EUR ir 1 asmeniui.
-- Kiekvienas laikas susietas su teisingu oro uostu ir vietiniu laiku.
-- Duomenys patikrinti šios užklausos vykdymo metu; išlygos aiškiai pažymėtos.
+Jei tikslūs laikai nepatvirtinti, langelyje rašyk „laikas nepatvirtintas“; jei nepavyksta patvirtinti pačios datos ar abiejų krypčių, **nekelk kandidato į patvirtintų pasiūlymų lentelę**. Po lentele atskirai paaiškink, kas tikėtina, bet nepatvirtinta. Nurodyk, kad tvarkaraščiai kinta ir laisvas vietas bei kainas reikia patikrinti Skyscanner ar aviakompanijoje.
+
+## Kokybės taisyklės
+- Kaina nėra privaloma; niekada neišgalvok kainos, tikslaus laiko, datos ar konkretaus reiso.
+- Abi kryptys tik iš/į VNO, tiesioginės, tik ateities savaitgaliai.
+- Sezoninis maršrutas ≠ patvirtintas konkretaus savaitgalio skrydis.
+- Šaltinis ir patvirtinimo lygis aiškūs.
+- Jei nieko patikrinti nepavyko, paaiškink kodėl, pateik filtrų instrukciją ir nekurk tariamų pasiūlymų.
