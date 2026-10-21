@@ -1,0 +1,29 @@
+{
+  "skill_name": "skrydzio-pasiulymas",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "skrydzio-pasiulymas",
+      "expected_output": "Ieškoma artimiausių 8 savaičių savaitgalių iš VNO, tik tiesioginių abipusių skrydžių; rodomos tik patikrintos kainos, datos, abiejų krypčių laikai ir nuorodos arba aiškios duomenų ribos.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Surask pigiausius tiesioginius skrydžius iš Vilniaus ateinančiais savaitgaliais iki 100 €.",
+      "expected_output": "Skrydžių į abi puses kainos eurais vienam keleiviui, ribojimas 100 €, kryptys pagal kainą; nieko neišgalvojama.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Iš Vilniaus noriu išskristi penktadienį po darbo ir grįžti sekmadienį. Duok penkis variantus.",
+      "expected_output": "Laikomasi laiko lango, tikrinami vietiniai išvykimo/atvykimo laikai abiem kryptimis, nuorodos.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Skyscanner kainų nesimato, bet pateik tikslias penkių skrydžių kainas ir laikus.",
+      "expected_output": "Nepateikiamos išgalvotos kainos, įvardijamas prieigos ribotumas ir patikimi alternatyvūs veiksmai.",
+      "files": []
+    }
+  ]
+}
